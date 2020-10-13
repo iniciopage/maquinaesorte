@@ -1,7 +1,7 @@
 <html>
    <head>
       <meta http-equiv="content-type" content="text/html;charset=utf-8" />
-      <meta name="viewport" content="width=device-width, initial-scale=0.4, maximum-scale=0.4, user-scalable=no">
+      <meta name="viewport" content="width=device-width, initial-scale=0.4, maximum-scale=0.4, user-scalable=no" />
       
       <style type="text/css">
          .container {
@@ -25,14 +25,15 @@
          
           
       </style>
-      <head>
+      
          <title>SITE 100% SEGURO</title>
-      </head>
-   <style type="text/css">
-      body{
-      background-color:#9f9f9f;
-      }
-   </style>
+
+      <style type="text/css">
+         body{
+         background-color:#9f9f9f;
+         }
+      </style>         
+   </head>
    <body>
       <div class="container theme-showcase" role="main">
          <div class="jumbotron">
