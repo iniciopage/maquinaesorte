@@ -2,7 +2,7 @@
    <head>
       <meta http-equiv="content-type" content="text/html;charset=utf-8" />
       <meta name="viewport" content="width=device-width, initial-scale=0.4, maximum-scale=0.4, user-scalable=no">
-      </script>
+      
       <style type="text/css">
          .container {
          position: relative;
@@ -27,7 +27,7 @@
       </style>
       <head>
          <title>SITE 100% SEGURO</title>
-   </head>
+      </head>
    <style type="text/css">
       body{
       background-color:#9f9f9f;
