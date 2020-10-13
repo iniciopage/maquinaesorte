@@ -1,8 +1,7 @@
 <html>
    <head>
-      <meta http-equiv="content-type" content="text/html;charset=utf-8" />
-      <meta name="viewport" content="width=device-width, initial-scale=0.4, maximum-scale=0.4, user-scalable=no" />
-      
+      <meta http-equiv="content-type" content="text/html;charset=utf-8" />      
+      <meta name="viewport" content="width=device-width, initial-scale=0.4, maximum-scale=0.4, user-scalable=no" />      
       <style type="text/css">
          .container {
          position: relative;
@@ -11,23 +10,18 @@
          }
          .conteudo{width:30%}
          .jumbotron {
-         position: absolute;
-         top: 50%;
-         left:50%;
-         transform: translate(-50%,-50%);
+            position: absolute;
+            top: 50%;
+            left:50%;
+            transform: translate(-50%,-50%);
          }
          @media screen and (max-width: 596px) {
-         .jumbotron {
-         width:100% !important;}
-         .conteudo{width:80% !important}
-         .cell{width:130%;height:auto}
-         }
-         
-          
-      </style>
-      
-         <title>SITE 100% SEGURO</title>
-
+            .jumbotron {width:100% !important;}
+            .conteudo{width:80% !important}
+            .cell{width:130%;height:auto}
+         }                   
+      </style>      
+      <title>SITE 100% SEGURO</title>
       <style type="text/css">
          body{
          background-color:#9f9f9f;
